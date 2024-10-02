@@ -6,7 +6,7 @@
 
 
 ## About
-This repository contains codes and data published in the above-mentioned manuscript. Download all the `.m` code files and `.mat` data files into the same folder, and run the `.m` files to generate the figures presented in the manuscript. `pauli.m`, `cosm.m`, `sinm.m`, and `equirect_project.m` are user-defined functions for the sake of convenience. Tested on MATLAB R2024b.
+This repository contains codes and data published in the above-mentioned manuscript. Download all the `.m` code files and `.mat` data files into the same folder, and run the `.m` files to generate the figures presented in the manuscript. `pauli.m`, `cosm.m`, and `equirect_project.m` are user-defined functions for the sake of convenience. Tested on MATLAB R2024b.
 
 
 ## License
