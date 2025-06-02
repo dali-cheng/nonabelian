@@ -1,7 +1,7 @@
 <h3 align="center">Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions</h3>
 
   <p align="justify">
-    Codes and data for the paper "Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions", preprint available on <a href="https://arxiv.org/abs/2406.00321">arXiv</a>. If you find this repository helpful, please consider citing our work.
+    Codes and data for the paper "Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions", published at <a href="https://www.nature.com/articles/s41586-024-08259-2">Nature</a>. If you find this repository helpful, please consider citing our work.
     <br />
 
 
